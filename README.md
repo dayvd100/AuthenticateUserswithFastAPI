@@ -16,7 +16,7 @@ pip install requirements.txt
 fastapi dev main.py
 ```
 
-## the command: `openssl rand -hex` will provide you with a secret key, so you can replace it.
+## the command: `openssl rand -hex` will provide you with a secret key, so you can replace it. The output in the terminal will be:
 
 (Venv) (base) dayvd@DESKTOP-E7D1SE3:~/estudosPython/authUser$ openssl rand -hex 32
 f28b1f77d37c40ffff81657765012a1e223c1d54e6eb7d858dfe207e55f02d5a
